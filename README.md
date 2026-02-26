@@ -2,6 +2,7 @@
 
 > **AI-powered system that automatically detects the correct fetal plane, freezes the image, and measures fetal biometric parameters in real time**
 
+[![Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-red)](https://drive.google.com/file/d/1WRIEi4XRJ5RyelRQXkY52ocSb7L69OZ5/view?usp=drive_link)
 [![CPU Only](https://img.shields.io/badge/Deployment-CPU%20Only-orange)]()
 [![Real-time](https://img.shields.io/badge/Processing-Real--time-brightgreen)]()
 [![Gates Foundation](https://img.shields.io/badge/Problem%20Space-Gates%20Foundation%20Funded-blue)]()
