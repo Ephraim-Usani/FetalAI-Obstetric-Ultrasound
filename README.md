@@ -70,7 +70,7 @@ Point-of-care ultrasound in Africa runs on portable, battery-powered machines in
 
 ## Technical Approach
 
-- **Model:** YOLOv8n — optimized for CPU inference speed
+- **Model:** YOLOv26n — optimized for CPU inference speed
 - **Plane Recognition:** Custom-trained classifier for standard obstetric planes
 - **Measurement Engine:** Automated caliper placement with real-time recalculation
 - **Interface:** Live ultrasound feed overlay with measurement display
